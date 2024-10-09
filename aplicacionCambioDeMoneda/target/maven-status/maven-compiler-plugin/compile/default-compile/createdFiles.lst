@@ -1,0 +1,5 @@
+Escritura\EscrituraJson.class
+API\GetDataAPI.class
+Principal\AplicacionCambioDeMoneda.class
+GraficaASCII\Ascii.class
+Transaccion\TransaccionGson.class
